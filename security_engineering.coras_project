@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:corastool="http://corastool" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <corastool:CDiagram xmi:id="_TjAQgQ4OEeKZQsdd_97CKA" identifier="security_engineering" highLevelCoras="false" legalCoras="false" dependentCoras="false">
+    <diagrams xmi:type="corastool:CThreatDiagram" xmi:id="_TjD64A4OEeKZQsdd_97CKA" identifier="Unnamed">
+      <elements xmi:type="corastool:CThreatScenario" xmi:id="_fY0n8A4OEeKZQsdd_97CKA" identifier="TEST" borderStatus="3" likelihood="10"/>
+      <elements xmi:type="corastool:CVulnerability" xmi:id="_h2LbMA4OEeKZQsdd_97CKA" identifier="TEST" borderStatus="3"/>
+    </diagrams>
+  </corastool:CDiagram>
+  <notation:Diagram xmi:id="_Tj950A4OEeKZQsdd_97CKA" type="Coras" element="_TjD64A4OEeKZQsdd_97CKA" name="security_engineering" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_fY3EMA4OEeKZQsdd_97CKA" type="2033" element="_fY0n8A4OEeKZQsdd_97CKA" fontName="Ubuntu">
+      <children xmi:type="notation:DecorationNode" xmi:id="_fY45YA4OEeKZQsdd_97CKA" type="5041"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_fY45YQ4OEeKZQsdd_97CKA" type="5042"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fY3rQA4OEeKZQsdd_97CKA" x="501" y="174"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_h2OegA4OEeKZQsdd_97CKA" type="2054" element="_h2LbMA4OEeKZQsdd_97CKA" fontName="Ubuntu">
+      <children xmi:type="notation:DecorationNode" xmi:id="_h2PsoA4OEeKZQsdd_97CKA" type="5069"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h2OegQ4OEeKZQsdd_97CKA" x="783" y="131"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_Tj950Q4OEeKZQsdd_97CKA"/>
+  </notation:Diagram>
+</xmi:XMI>
